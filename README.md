@@ -76,7 +76,7 @@ PINECONE_API_KEY=your_pinecone_key_here
 # Cohere (for embeddings and reranking)
 COHERE_API_KEY=your_cohere_key_here
 
-# Optional: Firecrawl (for enhanced web crawling)
+# Firecrawl (for enhanced web crawling)
 FIRECRAWL_API_KEY=your_firecrawl_key_here
 ```
 
