@@ -1,4 +1,4 @@
-# Cerebras Documentation RAG System
+# ⚡️ Cerebras Documentation RAG System
 
 An advanced RAG (Retrieval-Augmented Generation) system that provides intelligent access to Cerebras inference documentation with citations, conversation memory, and multiple interfaces for the Cerebras/OpenRouter Qwen 3 hackathon!
 
