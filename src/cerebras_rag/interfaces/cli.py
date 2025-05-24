@@ -238,7 +238,8 @@ class CerebrasRAGCLI:
                     current_answer = chunk["content"]
                     if RICH_AVAILABLE:
                         self.console.print(f"\n[bold green]🤖 Assistant:[/bold green]")
-                        self.console.print(current_answer)
+                        # Render the answer as markdown
+                        self.console.print(Markdown(current_answer))
                     else:
                         print(f"\n🤖 Assistant: {current_answer}")
                         
