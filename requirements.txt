@@ -1,0 +1,35 @@
+# Core dependencies
+langchain>=0.1.0
+langchain-openai>=0.1.0
+langchain-community>=0.0.10
+langchain-cohere>=0.1.0
+langchain-pinecone>=0.1.0
+langgraph>=0.1.0
+
+# Vector database and embeddings
+faiss-cpu>=1.7.4
+pinecone>=5.0.0
+cohere>=4.0.0
+
+# Document processing
+beautifulsoup4>=4.12.0
+pypdf>=3.17.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# Web crawling
+firecrawl-py>=1.0.0
+requests>=2.31.0
+
+# OpenAI API
+openai>=1.0.0
+
+# CLI interface
+rich>=13.0.0
+
+# Development dependencies (optional)
+# pytest>=7.0
+# pytest-asyncio>=0.23
+# black>=23.0
+# isort>=5.0
+# flake8>=6.0 
