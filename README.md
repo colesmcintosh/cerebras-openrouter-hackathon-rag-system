@@ -1,9 +1,11 @@
 # Cerebras Documentation RAG System
 
-An advanced RAG (Retrieval-Augmented Generation) system that provides intelligent access to Cerebras inference documentation with citations, conversation memory, and multiple interfaces.
+An advanced RAG (Retrieval-Augmented Generation) system that provides intelligent access to Cerebras inference documentation with citations, conversation memory, and multiple interfaces for the Cerebras/OpenRouter Qwen 3 hackathon!
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<img src="docs/assets/hackathon-logo.png" alt="Cerebras RAG System Architecture" width="400">
 
 ## 🚀 Features
 
